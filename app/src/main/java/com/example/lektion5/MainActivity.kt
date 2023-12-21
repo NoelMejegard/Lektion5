@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
                     //Greeting("Android")
 
 
-                }
+                } //Hej
                 var i by remember {
                     mutableStateOf(0)
                 }
